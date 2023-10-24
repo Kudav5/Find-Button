@@ -9,74 +9,77 @@
 .lv9:hover {opacity: 1;}
 .lv10:hover {opacity: 1;}
 
+body {
+    width: 0;
+    height: 0;
+}
+
 .lv1 {
     opacity: 0;
     position: relative;
     top: 100px;
     left: 75px;
-    width: 0;
-    height: 0;
 }
 
 .lv2 {
     opacity: 0;
     position: relative;
     top: 100px;
-    left: 75px;
+    left: 105px;
 }
 
 .lv3 {
     opacity: 0;
     position: relative;
-    top: 100px;
+    top: 80px;
     left: 75px;
 }
 
 .lv4 {
     opacity: 0;
     position: relative;
-    top: 100px;
+    top: 70px;
     left: 75px;
 }
 
 .lv5 {
     opacity: 0;
     position: relative;
-    top: 100px;
-    left: 75px;
+    top: 105px;
+    left: 105px;
 }
 
 .lv6 {
     opacity: 0;
     position: relative;
-    top: 100px;
-    left: 75px;
+    top: 120px;
+    left: 125px;
 }
 
 .lv7 {
     opacity: 0;
     position: relative;
-    top: 100px;
-    left: 75px;
+    top: 140px;
+    left: 67px;
 }
 
 .lv8 {
     opacity: 0;
     position: relative;
-    top: 100px;
-    left: 75px;
+    top: 121px;
+    left: 55px;
 }
 
 .lv9 {
     opacity: 0;
     position: relative;
-    top: 100px;
-    left: 75px;
+    top: 144px;
+    left: 90px;
 }
 
 .lv10 {
     opacity: 0;
     position: relative;
     top: 100px;
-    left: 75px;
+    left: 100px;
 }
