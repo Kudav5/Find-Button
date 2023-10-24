@@ -15,71 +15,71 @@ body {
 }
 
 .lv1 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
     top: 100px;
     left: 75px;
 }
 
 .lv2 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 100px;
-    left: 105px;
+    top: 10cm;
+    left: 15cm;
 }
 
 .lv3 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 80px;
-    left: 75px;
+    top: 5cm;
+    left: 24cm;
 }
 
 .lv4 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 70px;
-    left: 75px;
+    top: 13cm;
+    left: 20cm;
 }
 
 .lv5 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 105px;
-    left: 105px;
+    top: 7cm;
+    left: 1cm;
 }
 
 .lv6 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 120px;
-    left: 125px;
+    top: 12cm;
+    left: 24cm;
 }
 
 .lv7 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 140px;
-    left: 67px;
+    top: 10cm;
+    left: 30cm;
 }
 
 .lv8 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 121px;
-    left: 55px;
+    top: 10cm;
+    left: 1cm;
 }
 
 .lv9 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
     top: 144px;
     left: 90px;
 }
 
 .lv10 {
-    opacity: 0;
+    opacity: 1;
     position: relative;
-    top: 100px;
-    left: 100px;
+    top: 10cm;
+    left: 30cm;
 }
