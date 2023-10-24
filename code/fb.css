@@ -1,4 +1,4 @@
-.lv1 {
+.lvl {
     opacity: 0;
     position: relative;
     top: 100px;
@@ -7,6 +7,12 @@
     height: 0;
 }
 
-.lv1:hover {
+.lvl:hover {
     opacity: 1;
+}
+
+.final {
+    background-color: lightcyan;
+    text-align: center;
+    font-size: 48px;
 }
